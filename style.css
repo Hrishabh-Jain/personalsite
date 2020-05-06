@@ -1,0 +1,46 @@
+p {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+div {
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+    backface-visibility: inherit;
+}
+
+h2 {
+    font-family: cursive;
+    background-image: url("OIP.jpg");
+}
+
+body {
+    background-blend-mode: saturation;
+    background-color: #08d9d6;
+}
+
+about {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    caption-side: bottom;
+}
+
+book-bg {
+    background-image: url("books.jpg");
+}
+
+contact {
+    display: inline;
+}
